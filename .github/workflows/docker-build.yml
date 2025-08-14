@@ -26,4 +26,6 @@ jobs:
         with:
           context: .
           push: true
-          tags: iomaiph/sap-ai-core-llm:latest
+          tags: akshay1p1/gemini-backend:latest
+
+
